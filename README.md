@@ -1,11 +1,16 @@
 # Kia ora, I'm Jen :wave:
-I'm a full-stack web developer based in Auckland, New Zealand. I graduated from Dev Academy Aotearoa in December 2025 with a New Zealand Certificate in Applied Software Development. I also studied a Postgraduate Certificate through Auckland University in 2021, which I completed before taking three years away from study and work to raise a family. Before retraining as a web developer, I worked as a Paralegal/Legal Secretary in a law firm, supporting others in administration roles. I chose to retrain because I enjoy the challenge and found I love building through code. Here are some of the things I have built so far!
-## Projects
-From most recent to oldest.
-### Calendar patience
-Deployed at https://calendar-patience.onrender.com/
-This is a personal project 
+I'm a full-stack web developer based in Auckland, New Zealand with a New Zealand Certificate in Applied Software Development through Dev Academy and a Postgraduate Certificate in Information Technology through Auckland University. 
+## About me
+I recently completed a part-time boot camp at Dev Academy, principally working with React, Typescript and Javascript, and Knex.js for database queries. 
 
+Before retraining as a web developer, I worked as a Paralegal/Legal Secretary in a law firm, supporting others in administration roles. One of my responsibilities in the firm was updating its website, which required basic knowledge of HTML. I taught myself HTML and CSS and found a sense of satisfaction creating websites out of text. Here are some of the latest things I've built!
+## Projects
+### [Calendar patience](https://calendar-patience.onrender.com/)
+A personal project based on a one-player cardgame from my childhood, this uses the [Deck of Cards API](https://deckofcardsapi.com/) to create the initial deck and the HTML5 Drag and Drop API to manage the user's interaction with the cards. Built with React, Typescript, Vite, Tanstack Query and Knex.js, I'm currently adding touch events to add playability on mobile and touch screen devices.   
+
+### [Vibing Violet](https://vibing-violet.onrender.com/)
+Our final team project with Dev Academy, this is a basic messaging app which takes inspiration from discord and messenger. It uses WebSockets to create a live connection between users and a database to persist message history and user information. It also 
+A 
 <!--
 **jennifer-legg/jennifer-legg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
