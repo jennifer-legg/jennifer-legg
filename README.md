@@ -1,6 +1,10 @@
 # Kia ora, I'm Jen :wave:
 I'm a full-stack web developer based in Auckland, New Zealand. I graduated from Dev Academy Aotearoa in December 2025 with a New Zealand Certificate in Applied Software Development. I also studied a Postgraduate Certificate through Auckland University in 2021, which I completed before taking three years away from study and work to raise a family. Before retraining as a web developer, I worked as a Paralegal/Legal Secretary in a law firm, supporting others in administration roles. I chose to retrain because I enjoy the challenge and found I love building through code. Here are some of the things I have built so far!
 ## Projects
+From most recent to oldest.
+### Calendar patience
+Deployed at https://calendar-patience.onrender.com/
+This is a personal project 
 
 <!--
 **jennifer-legg/jennifer-legg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
