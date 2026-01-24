@@ -11,6 +11,24 @@ A personal project based on a one-player cardgame from my childhood, this uses t
 ### [Vibing Violet](https://vibing-violet.onrender.com/)
 Our final team project with Dev Academy, this is a basic messaging app which takes inspiration from discord and messenger. It uses WebSockets to create a live connection between users and a database to persist message history and user information. TailwindCSS creates a responsive UI and Auth0 is integrated for a secure authorization and login. 
 
+## Tech stack
+- Frontend: React, TypeScript, Javascript, Tailwind CSS, CSS
+- Backend: Node.js, Express, Knex, SQLite3
+- Tools: Git, GitHub, Vite, ESLint, Prettier, Vitest
+- APIs: Deck of Cards API, HTML5 Drag and Drop
+- Deployment: Render.com
+  
+## Currently working on
+- Adding Touch Events to Calendar-Patience
+- Refining CSS for responsive layout for Calendar-Patience
+
+## Currently learning
+- Researching Socket.io with a view to creating a multi-player card game
+  
+## How to reach me
+- [LinkedIn](https://www.linkedin.com/in/jennifer-legg-5994a5117/)
+- [Email](jenn.e.legg@gmail.com)
+- [Website](https://jennifer-legg.github.io/)
 
 
 <!--
