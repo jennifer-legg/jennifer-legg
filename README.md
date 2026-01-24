@@ -28,7 +28,7 @@ Our final team project with Dev Academy, this is a basic messaging app which tak
   
 ## How to reach me
 - [LinkedIn](https://www.linkedin.com/in/jennifer-legg-5994a5117/)
-- [Email](jenn.e.legg@gmail.com)
+- [Email](mailto:jenn.e.legg@gmail.com)
 - [Website](https://jennifer-legg.github.io/)
 
 
