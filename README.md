@@ -19,12 +19,17 @@ Our final team project with Dev Academy, this is a basic messaging app which tak
 - Deployment: Render.com
   
 ## Currently working on
-- Adding Touch Events to Calendar-Patience
-- Refining CSS for responsive layout for Calendar-Patience
-- Refactoring code to have a better separation of concerns for components in Calendar-Patience
+
+### Go Fish
+- Adding socket.io (a websocket library) to allow multiplayer ability with websockets
+- Planning and implementing game functions
+
+### Calendar Patience
+- Adding Pointer events
+- Refactoring code to have a better separation of concerns for components
 
 ## Currently learning
-- Researching Socket.io, a WebSocket library to use in a multi-player card game
+- Researching and implementing Socket.io
   
 ## How to reach me
 - [LinkedIn](https://www.linkedin.com/in/jennifer-legg-5994a5117/)
